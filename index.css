@@ -1,0 +1,30 @@
+
+
+body{
+  font-family: "EB Garamond", serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+  color: floralwhite;
+}
+
+body{
+    background-image: url(eclipse_by_aenami_dbm89a9.png);
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+p{
+    font-weight: 600;
+}
+
+button{
+    padding: 6px 20px; 
+    background-color: #880b0746; 
+    color: white; 
+    border-radius: 100px; 
+    cursor: pointer;
+    box-shadow: 0 4px 6px rgb(36, 23, 23); 
+}
+
+
